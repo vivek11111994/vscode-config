@@ -1,0 +1,28 @@
+{
+    "chat.instructionsFilesLocations": {
+        "/Users/vivek/Library/Application Support/Code/User/profiles": true
+    },
+    "go.inlayHints.compositeLiteralFields": true,
+    "go.inlayHints.compositeLiteralTypes": true,
+    "go.inlayHints.functionTypeParameters": true,
+    "go.inlayHints.parameterNames": true,
+    "go.inlayHints.rangeVariableTypes": true,
+    "go.inlayHints.constantValues": true,
+    "editor.inlayHints.fontFamily": "'Monaspace Radon'",
+    "editor.inlayHints.fontSize": 14,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 22,
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
+    "workbench.colorTheme": "GitHub Light Default",
+    "workbench.tree.indent": 20,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.decorations.badges": false,
+    "explorer.decorations.colors": false,
+    "explorer.compactFolders": false,
+    "explorer.autoReveal": true,
+}
