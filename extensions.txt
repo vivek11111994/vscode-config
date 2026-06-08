@@ -1,0 +1,16 @@
+davidkol.fastcompare
+github.github-vscode-theme
+golang.go
+k--kato.intellij-idea-keybindings
+mechatroner.rainbow-csv
+pkief.material-icon-theme
+redhat.java
+tomrijndorp.find-it-faster
+vscjava.vscode-gradle
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
+waderyan.gitblame
+xiaoxuxxxx.gogo-codelens
